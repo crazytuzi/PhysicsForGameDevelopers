@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Matrix3x3.cpp" />
     <ClCompile Include="PhysicsForGameDevelopers.cpp" />
     <ClCompile Include="Quaternion.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Matrix3x3.h" />
     <ClInclude Include="Quaternion.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>
